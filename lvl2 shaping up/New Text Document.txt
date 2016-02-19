@@ -1,0 +1,9 @@
+{{data*|filter:options}}
+
+date: 'MM/dd/yyyy @h:mma'
+
+uppercase
+
+limitTo:8
+
+orderBy:'-price'
