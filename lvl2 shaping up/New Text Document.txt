@@ -7,3 +7,8 @@ uppercase
 limitTo:8
 
 orderBy:'-price'
+
+load image
+<img ng-scr="">
+
+product.images.length
